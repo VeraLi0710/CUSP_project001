@@ -12,7 +12,7 @@ This project, awarded **Best Overall** at the [**CUSP London Data Dive 2025**](h
 You can view the detailed project report here:  
 [**Download Project Report (PDF)**](CUSP_Group_7.pdf)  
 
-Explore spatial insights into fuel poverty and associated factors through our interactive map:  
+🗺Explore spatial insights into fuel poverty and associated factors through our **interactive map**:  
 [**Spatial Insights into Fuel Poverty and Associated Factors**](https://verali0710.github.io/CUSP_project001/interactive_map_with_all_variables.html)  
 
 This repository includes the full analysis, datasets, and visualizations used in the project.
