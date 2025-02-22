@@ -1,4 +1,4 @@
-This project, awarded **Best Overall** at the[**CUSP London Data Dive 2025**](https://cusplondon.ac.uk/), explores the spatial drivers of **fuel poverty** in London using advanced spatial analysis techniques. By integrating multiple datasets, we identified key socio-economic and energy-related factors contributing to fuel poverty and developed actionable policy recommendations tailored to regional disparities.  
+This project, awarded **Best Overall** at the [**CUSP London Data Dive 2025**](https://cusplondon.ac.uk/), explores the spatial drivers of **fuel poverty** in London using advanced spatial analysis techniques. By integrating multiple datasets, we identified key socio-economic and energy-related factors contributing to fuel poverty and developed actionable policy recommendations tailored to regional disparities.  
 
 ## Approach  
 - **Data Integration**: Combined datasets on household income, energy efficiency, electricity consumption, and housing characteristics.  
